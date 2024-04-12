@@ -1,10 +1,9 @@
 {
-	"eslint.experimental.useFlatConfig": true,
 	"editor.formatOnSave": false,
 	"editor.codeActionsOnSave": {
 		"source.fixAll.eslint": "explicit",
 		"eslint.autoFixOnSave": "explicit",
 		"source.fixAll.stylelint": "explicit"
 	},
-	"files.autoSaveDelay": 500
+	"files.autoSaveDelay": 500,
 }
